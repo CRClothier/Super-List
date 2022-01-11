@@ -30,7 +30,7 @@ const createList = (items) => {
   deleteTask(items);
 };
 
-function addTask(items) {
+const addTask = (items) => {
   const input = document.querySelector('.add');
   input.addEventListener('keypress', (e) => {
     if (e.keyCode === 13) {
@@ -45,6 +45,6 @@ function addTask(items) {
       localStorage.localData = JSON.stringify(items);
     }
   });
-}
+};
 
 export { addTask, createList };

@@ -1,6 +1,6 @@
 import { createList } from './addtask.js';
 
-export default function clearAll(items) {
+export default (items) => {
   const checkedTasks = [];
   const deleteButton = document.querySelector('.delete');
   deleteButton.addEventListener('click', () => {
@@ -18,4 +18,4 @@ export default function clearAll(items) {
     localStorage.localData = JSON.stringify(items);
     createList(items);
   });
-}
+};

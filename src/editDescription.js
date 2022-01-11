@@ -1,4 +1,4 @@
-export default function editDescriptions(items) {
+export default (items) => {
   const taskDescriptions = document.querySelectorAll('.taskText');
   taskDescriptions.forEach((task, index) => {
     task.addEventListener('input', () => {
@@ -6,4 +6,4 @@ export default function editDescriptions(items) {
       localStorage.localData = JSON.stringify(items);
     });
   });
-}
+};

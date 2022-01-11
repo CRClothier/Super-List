@@ -1,7 +1,7 @@
 // eslint-disable-next-line import/no-cycle
 import { createList } from './addtask.js';
 
-export default function deleteTask(items) {
+export default (items) => {
   const deleteButtons = document.querySelectorAll('i');
   deleteButtons.forEach((button, index) => {
     button.addEventListener('click', () => {
@@ -13,4 +13,4 @@ export default function deleteTask(items) {
       createList(items);
     });
   });
-}
+};
