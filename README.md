@@ -4,7 +4,7 @@
 
  ## Buit With
 
- - HTML
+- HTML
 - CSS
 - Javascript
 - Webpack
