@@ -1,57 +1,57 @@
 # Super-List
 
-The learning goals of this project are to practice using ES6 standards in Javascript and to implement Webpack.  This project is recreating part of a, now defunct, todolist app called minimalist.
+ The learning goals of this project are to practice using ES6 standards in Javascript and to implement Webpack.  This project is recreating part of a, now defunct, todolist app called minimalist.
 
-## Buit With
+ ## Buit With
 
 - HTML
 - CSS
 - Javascript
 - Webpack
 
-## Live Demo
+ ## Live Demo
 
-[Super List](https://crclothier.github.io/Super-List/)
+ [Super List](https://crclothier.github.io/Super-List/)
 
-## Getting Started
+ ## Getting Started
 
-To get a local copy up and running follow these simple example steps:
+ To get a local copy up and running follow these simple example steps:
 
-### Prerequisites
+ ### Prerequisites
 
-Basic knowledge of:
+ Basic knowledge of:
 - HTML, CSS & Javascript
 - Git & Github
 
-### Setup
+ ### Setup
 
-- Create a directory on your local computer.
+ - Create a directory on your local computer.
 - Use git init in that directory.
 - Clone this repository into your folder.
 
-### Usage
+ ### Usage
 
-Edit the files to practice professional standards.
+ Edit the files to practice professional standards.
 
-## Authors
+ ## Authors
 
-**Chris Clothier**
+ **Chris Clothier**
 GitHub: [@CRClothier](https://github.com/crclothier)  
 LinkedIn: [Chris Clothier](https://www.linkedin.com/in/crclothier/)
 
-## 🤝 Contributing
+ ## 🤝 Contributing
 
-Feedback, issues, and feature requests are welcome!
+ Feedback, issues, and feature requests are welcome!
 
-## Show your support
+ ## Show your support
 
-Give a star ⭐️ if you like this project!
+ Give a star ⭐️ if you like this project!
 
-## Acknowledgments
+ ## Acknowledgments
 
-- Thanks to Microverse for their README template.
+ - Thanks to Microverse for their README template.
 - Thanks to my learning partners for unblocking me time and time again!
 
-## 📝 License
+ ## 📝 License
 
-This project is [MIT](MIT.md) licensed.
+ This project is [MIT](MIT.md) licensed.
